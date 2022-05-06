@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sudarshan-kr.github.io/csb-tyuvz2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/runtime-main.855c449f.js",
+    "runtime-main.js.map": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/runtime-main.855c449f.js.map",
+    "static/js/2.cc863786.chunk.js": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://sudarshan-kr.github.io/csb-tyuvz2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sudarshan-kr.github.io/csb-tyuvz2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://sudarshan-kr.github.io/csb-tyuvz2/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.855c449f.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
